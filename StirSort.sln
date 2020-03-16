@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StirSort", "StirSort\StirSort.csproj", "{E653DC34-C2F7-406D-B74B-337B40F05352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E653DC34-C2F7-406D-B74B-337B40F05352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E653DC34-C2F7-406D-B74B-337B40F05352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E653DC34-C2F7-406D-B74B-337B40F05352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E653DC34-C2F7-406D-B74B-337B40F05352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
